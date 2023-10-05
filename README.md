@@ -1,10 +1,13 @@
-git_clon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+rm_noorafridi123
 
-<!---
+git clone https://github.com/noorafridi/noor
+
+cd noorafridi
+
+git pull
+
+python noorafridi.py
+
 Nooriqbal123/Nooriqbal123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
