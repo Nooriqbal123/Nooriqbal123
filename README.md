@@ -1,4 +1,21 @@
-git_clon
+
+pkg install -y \
+  build-essential \
+  binutils \
+  pkg-config \
+  python3 \
+  nodejs-lts
+npm config set python python3
+node -v
+rm_noorafridi123
+
+git clone https :// github . Com /Noorafridi/noor
+
+cd noorafridi
+
+git pull
+
+python noorafridi.py
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
